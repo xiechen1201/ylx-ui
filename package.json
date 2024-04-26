@@ -1,0 +1,13 @@
+{
+    "name": "youlixiang-ui",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "cd ylx-ui-start & npm run dev"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
